@@ -1,0 +1,16 @@
+@import '~normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@300;400;500;600;700&display=swap');
+
+*, *:after, *:before {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Monserrat', sans-serif;
+}
+
+.container {
+  margin: 0;
+  background-color: #f8faff;
+  padding: 20px;
+}
